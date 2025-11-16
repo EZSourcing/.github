@@ -1,1 +1,1 @@
-# .github
+Ezsourcing development team
